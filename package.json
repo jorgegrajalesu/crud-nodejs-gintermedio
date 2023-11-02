@@ -1,0 +1,15 @@
+{
+  "name":"crudnodejs",
+  "version":"0.0.1",
+  "description": "crud básico en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error en ejecución'",
+    "start": "nodemon src/app.js",
+    "dev": "nodemon src/app.js"
+
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
